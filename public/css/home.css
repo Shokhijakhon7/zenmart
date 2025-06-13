@@ -1,6 +1,6 @@
 
 .home_page {
-    padding-bottom: 60px;
+    padding-bottom: px;
     display: flex;
     flex-direction: column;
 }
@@ -905,6 +905,7 @@ line-height: 28px; /* 175% */
     justify-content: center;
 
     background-image: url("../images/event\ background.png");
+    background-size: cover;
 }
 
 .event_frame .container {
