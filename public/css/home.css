@@ -30,7 +30,7 @@ line-height: 40px;
 }
 .container .category_top a {
     
-  font-family: "Jost";
+  font-family: var(--font);
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -110,7 +110,7 @@ color: var(--Color-Text-Dark, #626974);
 
 
 /* 16/Medium */
-font-family: Jost;
+font-family: var(--font);
 font-size: 13px;
 font-style: normal;
 font-weight: 400;
